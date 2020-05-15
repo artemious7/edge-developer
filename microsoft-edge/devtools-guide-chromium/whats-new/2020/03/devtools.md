@@ -173,9 +173,9 @@ To try a demo, see [Locale-dependent code example][MathiasByensLocaleDemo].
 
 Chromium issue [#1051822][crbug1051822]
 
-### Cross-Origin Opener Policy \(COOP\) and Cross-Origin Embedder Policy \(COEP\) debugging   
+### Cross-Origin Embedder Policy \(COEP\) debugging   
 
-The Network panel now provides [Cross-Origin Opener Policy][COOP] and [Cross-Origin Embedder Policy][COEP] debugging information.  
+The Network panel now provides [Cross-Origin Embedder Policy][COEP] debugging information.  
 
 The **Status** column now provides a quick explanation of why a request was blocked as well as a link to view the headers of that request for further debugging:  
 
